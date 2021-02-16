@@ -19,5 +19,3 @@ Here are some ideas to get you started:
 - :phone: Contact me: anhtu001@e.ntu.edu.sg
 - :office: [Linkedin](https://www.linkedin.com/in/anh-tu-d-b28590102/)
 - :hammer_and_pick: Searching for jobs ... Software Engineer, Firmware Engineer, Robotics Engineer, etc.
-
-[![Boom's github stats](https://github-readme-stats.vercel.app/api?username=AnhTuDo1998&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/anuraghazra/github-readme-stats)
