@@ -18,4 +18,3 @@ Here are some ideas to get you started:
 - :books: My interest: Machine Learning, Computer Vision, SLAM algo, Firmware
 - :phone: Contact me: anhtu001@e.ntu.edu.sg
 - :office: [Linkedin](https://www.linkedin.com/in/anh-tu-d-b28590102/) , [Email](anhtu001@e.ntu.edu.sg)
-- :hammer_and_pick: Searching for jobs ... Software Engineer, Firmware Engineer, Robotics Engineer, etc.
