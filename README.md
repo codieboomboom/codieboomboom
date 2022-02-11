@@ -7,3 +7,6 @@
 - :memo: [Blog](https://anhtudo1998.github.io/)
 - :phone: Contact me: anhtu.do1998@gmail.com
 - :office: [Linkedin](https://www.linkedin.com/in/anh-tu-d-b28590102/)
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
