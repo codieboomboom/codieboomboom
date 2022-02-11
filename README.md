@@ -11,4 +11,4 @@
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AnhTuDo1998)](https://github.com/AnhTuDo1998/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AnhTuDo1998&hide=javascript,jupyter%20notebook,batchfile,java)](https://github.com/AnhTuDo1998/github-readme-stats)
