@@ -4,7 +4,7 @@
 - :vietnam: Vietnamese :vietnam: 
 - :mortar_board: Computer Engineer Graduate from NTU SCSE Singapore :singapore:
 - :books: Getting really rusty recently
-- :memo: [Blog](https://anhtudo1998.github.io/)
+- :memo: [Portfolio](https://anhtudo1998.github.io/)
 - :phone: Contact me: anhtu.do1998@gmail.com
 - :office: [Linkedin](https://www.linkedin.com/in/anh-tu-d-b28590102/)
 
