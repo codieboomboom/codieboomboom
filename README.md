@@ -8,13 +8,13 @@
 <!--[![Medium Badge](https://img.shields.io/badge/medium-%2312100E.svg?&style=for-square&logo=medium&logoColor=white)](https://gapur-kassym.medium.com/)-->
 My name is Anh Tu (a.k.a Boom).
 
-I am an embedded software engineer, currently working in Singapore. When I am not coding/debugging, I would be hitting the dance floor and swing some moves out!
+I am an embedded software engineer :man_technologist:, currently working in Singapore :singapore:. When I am not coding/debugging, I would be hitting the dance floor and swing some moves out :man_dancing:!
 
 As a software engineer, I am always opened to trying new tech fields where I can make a difference with my quick ability to learn.
 
-<img align="right" alt="GIF" src="https://github.com/Gapur/Gapur/blob/master/coding.gif?raw=true" width="408" height="318" />
+<img align="right" alt="GIF" src="https://c.tenor.com/DBqjevyA2o4AAAAd/bongo-cat-codes.gif" width="500" />
 
-**What I am up to now?**
+:pushpin: **What I am up to now?**
 
 - 👨🏻‍💻 I’m currently binging everything Rustlang;
 - 💬 Ask me about anything, I am happy to help;
@@ -35,6 +35,6 @@ No activity tracked
 📈 **My GitHub Stats:**
 
 <p>
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=AnhTuDo1998&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnhTuDo1998&hide=jupyter%20notebook&show_icons=true&hide_border=true&layout=compact&langs_count=10"/>  
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=AnhTuDo1998&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&theme=dracula" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnhTuDo1998&hide=jupyter%20notebook&show_icons=true&hide_border=true&layout=compact&langs_count=10&theme=dracula"/>  
 </p>
