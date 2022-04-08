@@ -16,7 +16,7 @@ As a software engineer, I am always opened to trying new tech fields where I can
 
 :pushpin: **What I am up to now?**
 
-- 👨🏻‍💻 I’m currently binging everything Rustlang;
+- 👨🏻‍💻 I’m currently binging everything Rustlang 🦀;
 - 💬 Ask me about anything, I am happy to help;
 - 📫 How to reach me: anhtu.do1998@gmail.com;
 - 📝 [Resume](https://anhtudo1998.github.io/).
