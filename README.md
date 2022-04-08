@@ -12,7 +12,7 @@ I am an embedded software engineer :man_technologist:, currently working in Sing
 
 As a software engineer, I am always opened to trying new tech fields where I can make a difference with my quick ability to learn.
 
-<img align="right" alt="GIF" src="https://c.tenor.com/DBqjevyA2o4AAAAd/bongo-cat-codes.gif" width="380" height="330"/>
+<img align="right" alt="GIF" src="https://c.tenor.com/DBqjevyA2o4AAAAd/bongo-cat-codes.gif" width="350" height="300"/>
 
 :pushpin: **What I am up to now?**
 
