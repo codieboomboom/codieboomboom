@@ -27,7 +27,8 @@ As a software engineer, I am always opened to trying new tech fields where I can
 <!--START_SECTION:waka-->
 
 ```text
-No activity tracked
+Solidity   9 mins          █████████████████░░░░░░░░   68.49 %
+Rust       4 mins          ████████░░░░░░░░░░░░░░░░░   31.51 %
 ```
 
 <!--END_SECTION:waka-->
