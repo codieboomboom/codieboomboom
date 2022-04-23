@@ -27,12 +27,11 @@ As a software engineer, I am always opened to trying new tech fields where I can
 <!--START_SECTION:waka-->
 
 ```text
-Rust         2 hrs 51 mins   ██████████████▒░░░░░░░░░░   57.23 %
-TypeScript   1 hr 3 mins     █████▒░░░░░░░░░░░░░░░░░░░   21.35 %
-Markdown     22 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.42 %
-Git Config   14 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.78 %
-Solidity     9 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.13 %
-Other        9 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.04 %
+Rust         3 hrs 36 mins   ███████████▓░░░░░░░░░░░░░   46.84 %
+JavaScript   1 hr 14 mins    ████░░░░░░░░░░░░░░░░░░░░░   16.18 %
+TypeScript   1 hr 3 mins     ███▒░░░░░░░░░░░░░░░░░░░░░   13.79 %
+Markdown     26 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.82 %
+Other        19 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.11 %
 ```
 
 <!--END_SECTION:waka-->
