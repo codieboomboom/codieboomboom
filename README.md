@@ -27,12 +27,12 @@ As a software engineer, I am always opened to trying new tech fields where I can
 <!--START_SECTION:waka-->
 
 ```text
-Rust         3 hrs 30 mins   █████████░░░░░░░░░░░░░░░░   35.84 %
-JavaScript   3 hrs 29 mins   █████████░░░░░░░░░░░░░░░░   35.66 %
-JSON         47 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.11 %
-TOML         44 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.52 %
-Markdown     20 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.50 %
-Docker       18 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.18 %
+JavaScript   3 hrs 29 mins   ███████████▓░░░░░░░░░░░░░   46.74 %
+Rust         1 hr 23 mins    ████▓░░░░░░░░░░░░░░░░░░░░   18.57 %
+JSON         47 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.63 %
+TOML         38 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.59 %
+Markdown     20 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.56 %
+Docker       18 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.17 %
 ```
 
 <!--END_SECTION:waka-->
