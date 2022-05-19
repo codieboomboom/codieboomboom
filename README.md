@@ -27,10 +27,10 @@ As a software engineer, I am always opened to trying new tech fields where I can
 <!--START_SECTION:waka-->
 
 ```text
-Solidity   53 mins         ███████████████████████░░   92.38 %
-Markdown   3 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.70 %
-Python     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.57 %
-Text       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.35 %
+Solidity   22 mins         █████████████████████░░░░   83.83 %
+Markdown   3 mins          ███▓░░░░░░░░░░░░░░░░░░░░░   14.22 %
+Python     0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.21 %
+Text       0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.74 %
 ```
 
 <!--END_SECTION:waka-->
