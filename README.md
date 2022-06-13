@@ -27,11 +27,7 @@ As a software engineer, I am always opened to trying new tech fields where I can
 <!--START_SECTION:waka-->
 
 ```text
-JavaScript   3 hrs 12 mins   █████████████████████▓░░░   86.45 %
-Solidity     20 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.38 %
-JSON         7 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.34 %
-Markdown     1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.82 %
-Other        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
