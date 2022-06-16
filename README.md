@@ -27,7 +27,8 @@ As a software engineer, I am always opened to trying new tech fields where I can
 <!--START_SECTION:waka-->
 
 ```text
-No activity tracked
+JavaScript   16 mins         █████████████████▓░░░░░░░   70.78 %
+Solidity     6 mins          ███████▒░░░░░░░░░░░░░░░░░   29.22 %
 ```
 
 <!--END_SECTION:waka-->
