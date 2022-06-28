@@ -27,12 +27,7 @@ As a software engineer, I am always opened to trying new tech fields where I can
 <!--START_SECTION:waka-->
 
 ```text
-JavaScript   45 mins         ██████████████████████▒░░   89.12 %
-JSON         3 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   07.16 %
-CSS          1 min           ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.13 %
-Git Config   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.53 %
-Bash         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 %
-Text         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
