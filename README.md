@@ -35,6 +35,6 @@ No activity tracked
 📈 **My GitHub Stats:**
 
 <p>
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=AnhTuDo1998&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&theme=dracula" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnhTuDo1998&hide=java,batchfile,TSQL,jupyter%20notebook,c,c%2B%2B&show_icons=true&hide_border=true&layout=compact&langs_count=5&theme=dracula"/>  
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=codieboomboom&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&theme=dracula" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codieboomboom&hide=java,batchfile,TSQL,jupyter%20notebook,c,c%2B%2B&show_icons=true&hide_border=true&layout=compact&langs_count=5&theme=dracula"/>  
 </p>
