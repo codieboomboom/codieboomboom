@@ -27,7 +27,7 @@ As a software engineer, I am always opened to trying new tech fields where I can
 <!--START_SECTION:waka-->
 
 ```text
-No activity tracked
+Python   14 mins         █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
