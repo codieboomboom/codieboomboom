@@ -27,12 +27,12 @@ As a software engineer, I am always opened to trying new tech fields where I can
 <!--START_SECTION:waka-->
 
 ```text
-Rust         58 mins         ████████████▓░░░░░░░░░░░░   50.96 %
-TOML         32 mins         ███████░░░░░░░░░░░░░░░░░░   27.84 %
-Git Config   14 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   12.93 %
-Python       7 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.23 %
-Logos        1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.30 %
-Markdown     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.63 %
+Rust         58 mins         █████████████▓░░░░░░░░░░░   54.34 %
+TOML         32 mins         ███████▒░░░░░░░░░░░░░░░░░   29.69 %
+Git Config   14 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.79 %
+Logos        1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.39 %
+Markdown     0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.67 %
+Other        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 %
 ```
 
 <!--END_SECTION:waka-->
