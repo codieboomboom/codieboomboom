@@ -27,9 +27,8 @@ As a software engineer, I am always opened to trying new tech fields where I can
 <!--START_SECTION:waka-->
 
 ```text
-Rust    51 mins         ███████████████████▒░░░░░   76.70 %
-TOML    15 mins         █████▓░░░░░░░░░░░░░░░░░░░   23.12 %
-Logos   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.18 %
+Rust   40 mins         ████████████████████▓░░░░   83.18 %
+TOML   8 mins          ████▒░░░░░░░░░░░░░░░░░░░░   16.82 %
 ```
 
 <!--END_SECTION:waka-->
