@@ -27,7 +27,8 @@ As a software engineer, I am always opened to trying new tech fields where I can
 <!--START_SECTION:waka-->
 
 ```text
-Dart   57 mins         █████████████████████████   100.00 %
+Dart   57 mins         ████████████████████▓░░░░   83.16 %
+JSON   11 mins         ████▒░░░░░░░░░░░░░░░░░░░░   16.84 %
 ```
 
 <!--END_SECTION:waka-->
