@@ -27,11 +27,11 @@ As a software engineer, I am always opened to trying new tech fields where I can
 <!--START_SECTION:waka-->
 
 ```text
-Dart         1 hr 59 mins    ███████████████░░░░░░░░░░   60.26 %
-Groovy       33 mins         ████▒░░░░░░░░░░░░░░░░░░░░   17.16 %
-JSON         18 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.36 %
-YAML         11 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.75 %
-Other        7 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.78 %
+Dart         1 hr 59 mins    ███████████▒░░░░░░░░░░░░░   44.74 %
+Rust         1 hr 20 mins    ███████▓░░░░░░░░░░░░░░░░░   30.09 %
+Groovy       33 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   12.74 %
+YAML         11 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.27 %
+Other        7 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.80 %
 ```
 
 <!--END_SECTION:waka-->
