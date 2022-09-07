@@ -10,7 +10,7 @@ My name is Anh Tu (a.k.a Boom).
 
 I am an embedded software engineer :man_technologist:, currently working in Singapore :singapore:. When I am not coding/debugging, I would be hitting the dance floor and swing some moves out :man_dancing:!
 
-As a software engineer, I am always opened to trying new tech fields where I can make a difference with my quick ability to learn.
+Polyglot with a focus on Rust now...
 
 <img align="right" alt="GIF" src="https://c.tenor.com/DBqjevyA2o4AAAAd/bongo-cat-codes.gif" width="350" height="300"/>
 
