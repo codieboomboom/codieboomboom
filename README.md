@@ -27,9 +27,7 @@ Polyglot with a focus on Rust now...
 <!--START_SECTION:waka-->
 
 ```text
-Rust       1 hr 45 mins    █████████████████████████   99.57 %
-TOML       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.37 %
-Other      0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 %
+Rust   27 mins         █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
