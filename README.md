@@ -27,7 +27,7 @@ Polyglot with a focus on Rust now...
 <!--START_SECTION:waka-->
 
 ```text
-Rust   27 mins         █████████████████████████   100.00 %
+Rust   2 mins          █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
