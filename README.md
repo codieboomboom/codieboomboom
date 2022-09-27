@@ -27,7 +27,9 @@ Polyglot with a focus on Rust now...
 <!--START_SECTION:waka-->
 
 ```text
-No activity tracked
+Dart   11 mins         █████████████▒░░░░░░░░░░░   52.74 %
+YAML   9 mins          ███████████░░░░░░░░░░░░░░   44.13 %
+Rust   0 secs          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.13 %
 ```
 
 <!--END_SECTION:waka-->
