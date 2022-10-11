@@ -27,7 +27,7 @@ Polyglot with a focus on Rust now...
 <!--START_SECTION:waka-->
 
 ```text
-Dart   6 mins          █████████████████████████   100.00 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
