@@ -27,7 +27,12 @@ Polyglot with a focus on Rust now...
 <!--START_SECTION:waka-->
 
 ```text
-No activity tracked
+JavaScript   1 hr 5 mins     ███████████████▒░░░░░░░░░   61.14 %
+Text         26 mins         ██████▒░░░░░░░░░░░░░░░░░░   25.07 %
+Markdown     7 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.70 %
+C            2 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.27 %
+Groovy       2 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.16 %
+Git Config   1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.09 %
 ```
 
 <!--END_SECTION:waka-->
