@@ -27,9 +27,7 @@ Polyglot with a focus on Rust now...
 <!--START_SECTION:waka-->
 
 ```text
-JavaScript   8 mins          ██████████████████████▒░░   88.80 %
-Text         1 min           ██▓░░░░░░░░░░░░░░░░░░░░░░   10.27 %
-Groovy       0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.93 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
