@@ -27,7 +27,8 @@ Polyglot with a focus on Rust now...
 <!--START_SECTION:waka-->
 
 ```text
-No activity tracked
+Rust         18 mins         █████████████████████████   99.59 %
+Git Config   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.41 %
 ```
 
 <!--END_SECTION:waka-->
