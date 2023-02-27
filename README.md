@@ -27,9 +27,10 @@ Polyglot with a focus on Rust now...
 <!--START_SECTION:waka-->
 
 ```text
-Python       5 hrs 56 mins   ████████████████████████░   95.52 %
-Bash         13 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.72 %
-Other        1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.37 %
+Python       6 hrs 1 min     ████████████████████████░   95.53 %
+Bash         13 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.66 %
+Text         1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.40 %
+Other        1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.36 %
 ```
 
 <!--END_SECTION:waka-->
