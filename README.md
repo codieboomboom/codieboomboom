@@ -27,12 +27,12 @@ Polyglot with a focus on Rust now...
 <!--START_SECTION:waka-->
 
 ```text
-Python       5 hrs 34 mins   ████████████████████████░   95.46 %
-Text         9 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.65 %
-Git Config   3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.96 %
-Bash         3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.91 %
-Terraform    0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
-Markdown     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
+Python       2 hrs 34 mins   ███████████████████████░░   92.40 %
+Text         6 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.65 %
+Git Config   3 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.01 %
+Bash         3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.90 %
+Terraform    0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 %
+Markdown     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
 ```
 
 <!--END_SECTION:waka-->
