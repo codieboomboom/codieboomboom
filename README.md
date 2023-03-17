@@ -27,9 +27,8 @@ Polyglot with a focus on Rust now...
 <!--START_SECTION:waka-->
 
 ```text
-Text        5 mins          ████████████████████████░   96.59 %
-Python      0 secs          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.50 %
-Terraform   0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.91 %
+Text     5 mins          ████████████████████████▒   97.48 %
+Python   0 secs          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.52 %
 ```
 
 <!--END_SECTION:waka-->
